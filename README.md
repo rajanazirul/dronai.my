@@ -1,6 +1,6 @@
-# apiton
+# Dronai.my
 
-> Apiton - Vue Nuxt App Landing Page Template
+> Dronai.my - Asset management platform using Drone data with AI capabilities
 
 ## Build Setup
 
@@ -14,7 +14,7 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start
-
+s
 # generate static project
 $ npm run generate
 ```
