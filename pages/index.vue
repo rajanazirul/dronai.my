@@ -4,11 +4,11 @@
     <Banner />
     <Service />
     <CallToActionThree />
-    <!-- <CallToActionTwo /> -->
+    <CallToActionTwo />
     <!-- <Pricing /> -->
-    <Testimonial />
-    <!-- <Brands /> -->
-    <!-- <FunFact /> -->
+    <!-- <Testimonial /> -->
+    <Brands />
+    <FunFact />
     <!-- <BlogArea /> -->
     <!-- <CallToAction /> -->
     <Footer />

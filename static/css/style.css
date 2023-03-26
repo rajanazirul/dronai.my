@@ -52,11 +52,11 @@ a:visited {
   }
 }
 .thm-black-bg {
-  background-color: #252758;
+  background-color: #48a6c6;
 }
 
 .thm-base-bg {
-  background-color: #a461e5;
+  background-color: #61b7e5;
 }
 
 .thm-gray-bg {
@@ -142,7 +142,7 @@ a:visited {
   padding-bottom: 10px;
 }
 .bootstrap-select .dropdown-menu > li.selected > a {
-  background: #a461e5;
+  background: #61c4e5;
   color: #fff;
 }
 .bootstrap-select .dropdown-menu > li > a {
@@ -154,7 +154,7 @@ a:visited {
   transition: all .4s ease;
 }
 .bootstrap-select .dropdown-menu > li > a:hover {
-  background: #a461e5;
+  background: #61c4e5;
   color: #fff;
   cursor: pointer;
 }
@@ -192,7 +192,7 @@ a:visited {
   display: inline-block;
   width: 45px;
   height: 45px;
-  background: #a461e5;
+  background: #61c4e5;
   position: fixed;
   bottom: 40px;
   right: 40px;
@@ -293,7 +293,7 @@ a:visited {
 }
 .header-navigation ul.navigation-box > li > a {
   font-size: 14px;
-  color: #ffffff;
+  color: #000000;
   padding: 0;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
@@ -491,7 +491,7 @@ a:visited {
 * 4. banner styles
 */
 .banner-one {
-  background: transparent url(../images/banner-1-1.png) top right no-repeat;
+  /* background: transparent url(../images/banner-1-1.png) top right no-repeat; */
   background-size: cover;
   position: relative;
   padding-top: 274px;
@@ -554,7 +554,7 @@ a:visited {
   text-transform: uppercase;
   letter-spacing: .2em;
   overflow: hidden;
-  color: #FFFFFF;
+  color: #000000;
   font-family: "spartan_mbbold";
   line-height: 32px;
   padding-left: 20px;
@@ -571,13 +571,13 @@ a:visited {
 }
 .banner-one__tag-line a:hover {
   background-color: #252758;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 .banner-one__title {
   margin: 0;
   margin-top: 20px;
   margin-bottom: 50px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 70px;
   line-height: 80px;
   font-family: "spartan_mbextrabold";
@@ -825,7 +825,7 @@ a:visited {
 }
 .blog-one__meta-sep, .blog-one__meta-link {
   font-size: 14px;
-  color: #a461e5;
+  color: #61c4e5;
   font-family: "spartan_mbbold";
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
@@ -849,7 +849,7 @@ a:visited {
   transition: all .4s ease;
 }
 .blog-one__title a:hover {
-  color: #a461e5;
+  color: #61c4e5;
 }
 .blog-one__blog-page {
   padding-bottom: 120px;
@@ -883,7 +883,7 @@ a:visited {
   cursor: auto;
 }
 .blog-post-pagination a.active, .blog-post-pagination a:hover {
-  background: #a461e5;
+  background: #61c4e5;
   color: #fff;
 }
 .blog-post-pagination a + a {
@@ -967,7 +967,7 @@ a:visited {
   margin-left: 35px;
 }
 .blog-details .share-block .social-block a:hover {
-  color: #a461e5;
+  color: #61c4e5;
 }
 .blog-details__author {
   background-color: #EFF0F7;
@@ -1040,7 +1040,7 @@ a:visited {
   color: #252758;
 }
 .comment-one__date {
-  color: #a461e5;
+  color: #61c4e5;
   font-size: 12px;
   line-height: 1em;
   margin: 0;
@@ -1119,7 +1119,7 @@ a:visited {
 * 6. cta styles
 */
 .cta-one {
-  background: #a461e5 url(../images/cta-bg-1-1.jpg) center center no-repeat;
+  background: #61c4e5 url(../images/cta-bg-1-1.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
   padding-top: 123.5px;
@@ -1153,7 +1153,7 @@ a:visited {
   vertical-align: top;
 }
 .cta-two__icon i {
-  color: #a461e5;
+  color: #61c4e5;
   font-size: 64px;
 }
 .cta-two__content {
@@ -1173,7 +1173,7 @@ a:visited {
   transition: all .4s ease;
 }
 .cta-two__title a:hover {
-  color: #a461e5;
+  color: #61c4e5;
 }
 .cta-two__text {
   font-size: 16px;
@@ -1252,7 +1252,7 @@ a:visited {
   left: 0;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  color: #a461e5;
+  color: #61c4e5;
 }
 .cta-three__list-item + .cta-three__list-item {
   margin-top: 7px;
@@ -1368,7 +1368,7 @@ a:visited {
   font-size: 14px;
 }
 .site-footer__copytext a {
-  color: #a461e5;
+  color: #61c4e5;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
 }
@@ -1390,7 +1390,7 @@ a:visited {
   transition: all .4s ease;
 }
 .site-footer__social a:hover {
-  color: #a461e5;
+  color: #61c4e5;
 }
 .site-footer__social a + a {
   margin-left: 35px;
@@ -1424,7 +1424,7 @@ a:visited {
   transition: all .4s ease;
 }
 .footer-widget__links-link:hover {
-  color: #a461e5;
+  color: #61c4e5;
 }
 .footer-widget__subscribe-form {
   position: relative;
@@ -1475,7 +1475,7 @@ a:visited {
 }
 .footer-widget__subscribe-form button[type=submit] i {
   font-size: 18px;
-  color: #A461E5;
+  color: #61c4e5;
 }
 .footer-widget__subscribe-form button[type=submit]:hover i {
   color: #252758;
@@ -1485,7 +1485,7 @@ a:visited {
 * 8. inner-banner styles
 */
 .inner-banner {
-  background: #a461e5 url(../images/inner-banner-bg-1-1.jpg) center center no-repeat;
+  background: #61c4e5 url(../images/inner-banner-bg-1-1.jpg) center center no-repeat;
   background-size: cover;
   padding-top: 220px;
   padding-bottom: 120px;
@@ -1643,7 +1643,7 @@ a:visited {
 .sidebar__category-list-item a:before {
   content: '\f101';
   font-family: 'FontAwesome';
-  color: #a461e5;
+  color: #61c4e5;
   font-size: 14px;
   position: absolute;
   top: 50%;
@@ -2101,7 +2101,7 @@ a:visited {
 }
 .pricing-one__amount {
   margin: 0;
-  color: #a461e5;
+  color: #61c4e5;
   font-size: 40px;
   font-family: "spartan_mbbold";
   margin-bottom: 5px;
@@ -2132,7 +2132,7 @@ a:visited {
   content: '';
   width: 81px;
   height: 1px;
-  background-color: #a461e5;
+  background-color: #61c4e5;
   position: absolute;
   top: -1px;
   left: 50%;
@@ -2169,7 +2169,7 @@ a:visited {
   font-size: 10px;
   letter-spacing: .2em;
   font-family: "spartan_mbbold";
-  color: #a461e5;
+  color: #61c4e5;
   display: block;
 }
 
@@ -2281,7 +2281,7 @@ a:visited {
   transition: all .4s ease;
 }
 .service-one__title a:hover {
-  color: #a461e5;
+  color: #61c4e5;
 }
 .service-one__text {
   margin: 0;
@@ -2307,7 +2307,7 @@ a:visited {
   content: '';
   width: 81px;
   height: 1px;
-  background-color: #a461e5;
+  background-color: #61c4e5;
   position: absolute;
   top: -1px;
   left: 50%;
