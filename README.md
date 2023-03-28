@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+# install firebase
+$ npm install -g firebase-tool
+
 # install dependencies
 $ npm install
 
