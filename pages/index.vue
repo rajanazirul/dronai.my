@@ -6,9 +6,9 @@
     <CallToActionThree />
     <CallToActionTwo />
     <!-- <Pricing /> -->
-    <!-- <Testimonial /> -->
-    <Brands />
     <FunFact />
+    <Testimonial />
+    <!-- <Brands /> -->
     <!-- <BlogArea /> -->
     <!-- <CallToAction /> -->
     <Footer />

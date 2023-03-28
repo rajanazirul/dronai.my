@@ -2,47 +2,7 @@
   <section class="testimonials-one" id="testimonials">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6">
-          <div class="testimonials-one__image-block swiper-container">
-            <div class="swiper-wrapper" id="sync2">
-              <swiper :options="swiperOptionsVerticle">
-                <swiper-slide>
-              <div class="item clearfix">
-                <div class="testimonials-one__image">
-                  <img src="/images/testi-1-1.jpg" class="testimonials-one__thumb" alt="Awesome Image" />
-                  
-                </div><!-- /.testimonials-one__image -->
-              </div><!-- /.item -->
-                </swiper-slide>
-                <swiper-slide>
-              <div class="item clearfix">
-                <div class="testimonials-one__image">
-                  <img src="/images/testi-1-2.jpg" class="testimonials-one__thumb" alt="Awesome Image" />
-                  
-                </div><!-- /.testimonials-one__image -->
-              </div><!-- /.item -->
-                </swiper-slide>
-                <swiper-slide>
-              <div class="item clearfix">
-                <div class="testimonials-one__image">
-                  <img src="/images/testi-1-3.jpg" class="testimonials-one__thumb" alt="Awesome Image" />
-                  
-                </div><!-- /.testimonials-one__image -->
-              </div><!-- /.item -->
-                </swiper-slide>
-                <swiper-slide>
-              <div class="item clearfix">
-                <div class="testimonials-one__image">
-                  <img src="/images/testi-1-4.jpg" class="testimonials-one__thumb" alt="Awesome Image" />
-                  
-                </div><!-- /.testimonials-one__image -->
-              </div><!-- /.item -->
-                </swiper-slide>
-              </swiper>
-            </div><!-- /.owl-carousel owl-theme -->
-          </div><!-- /.testimonials-one__image-block -->
-        </div><!-- /.col-lg-6 -->
-        <div class="col-lg-6">
+        <div class="col-lg-12">
           <div class="testimonials-one__content">
             <div class="block-title text-left">
               <h2 class="block-title__title light-text-color">Meet Our Teams <br></h2><!-- /.block-title__title -->

@@ -15,13 +15,13 @@
       <div class="row">
         <div class="col-xl-6">
           <div class="banner-one__content">
-            <p class="banner-one__tag-line">We are AI-driven <a href="#">Building Inspection</a></p><!-- /.banner-one__tag-line -->
-            <h3 class="banner-one__title">Building inspection by <br> using AI-driven <br> Processing</h3><!-- /.banner-one__title -->
-            <a href="#" class="banner-one__btn thm-btn">Learn More</a>
-          </div><!-- /.banner-one__content -->
-        </div><!-- /.col-lg-6 -->
-      </div><!-- /.row -->
-    </div><!-- /.container -->
+            <p class="banner-one__tag-line">We are AI-driven <a href="#">Asset Management</a></p><!-- /.banner-one__tag-line -->
+            <h3 class="banner-one__title">Asset management <br> using AI-driven <br> Processing</h3><!-- /.banner-one__title -->
+            <a href="#services" class="banner-one__btn thm-btn">Learn More</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </section>
 </template>
 

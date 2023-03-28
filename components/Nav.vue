@@ -26,7 +26,7 @@
           </ul>
         </div><!-- /.navbar-collapse -->
         <div class="right-side-box">
-          <a href="#" class="thm-btn header-one__btn">Contact</a>
+          <a href="https://api.whatsapp.com/send?phone=60174220665&text=I%27m%20interested%20dronai" class="thm-btn header-one__btn">Contact</a>
         </div><!-- /.right-side-box -->
       </div>
       <!-- /.container -->

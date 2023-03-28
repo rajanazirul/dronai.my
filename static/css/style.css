@@ -82,7 +82,7 @@ a:visited {
 }
 .block-title__title {
   margin: 0;
-  margin-top: -10px;
+  margin-top: 40px;
   font-size: 60px;
   font-family: "spartan_mbextrabold";
   letter-spacing: -0.04em;
@@ -495,7 +495,7 @@ a:visited {
   background-size: cover;
   position: relative;
   padding-top: 274px;
-  padding-bottom: 515px;
+  padding-bottom: 415px;
   z-index: 11;
 }
 .banner-one__globe {
@@ -531,7 +531,7 @@ a:visited {
 .banner-one__moc {
   position: absolute;
   top: 140px;
-  right: 0;
+  right: 10%;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
   -webkit-animation-name: shapeRotate;
@@ -1132,7 +1132,7 @@ a:visited {
 .cta-two {
   background-color: #fff;
   position: relative;
-  padding-top: 330px;
+  padding-top: 180px;
   padding-bottom: 120px;
   -webkit-clip-path: polygon(0 0, 100% 31%, 100% 100%, 0% 100%);
           clip-path: polygon(0 0, 100% 31%, 100% 100%, 0% 100%);
@@ -1142,7 +1142,8 @@ a:visited {
 }
 .cta-two__moc {
   position: absolute;
-  top: 290px;
+  width: 50%;
+  top: 90px;
   right: 0;
 }
 .cta-two__single + .cta-two__single {
@@ -1218,7 +1219,7 @@ a:visited {
   left: 0;
   right: 0;
   bottom: 0;
-  background: transparent url(../images/cta-shape-1-1.png) center center no-repeat;
+  /* background: transparent url(../images/cta-shape-1-1.png) center center no-repeat; */
   background-size: 100%;
 }
 .cta-three__image > img {
@@ -1757,6 +1758,7 @@ a:visited {
 */
 .funfact-one {
   padding-top: 120px;
+  padding-bottom: 120px;
 }
 .funfact-one .block-title {
   margin-bottom: 20px;
@@ -2181,7 +2183,7 @@ a:visited {
   margin-bottom: -360px;
   z-index: 10;
 }
-.service-one:before {
+/* .service-one:before {
   content: '';
   width: 755px;
   height: 755px;
@@ -2202,7 +2204,7 @@ a:visited {
           animation-duration: 5s;
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
-}
+} */
 .service-one__single {
   position: relative;
   margin-bottom: 60px;

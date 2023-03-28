@@ -354,9 +354,14 @@
 @media(max-width: 991px) {
     .banner-one {
         padding-top: 100px;
-        padding-bottom: 220px;
+        padding-bottom: 20px;
     }
-    .cta-two__moc,
+    .cta-two__moc {
+        position: relative;
+        max-width: 100%;
+        margin-bottom: 50px;
+        top: auto;
+    }
     .banner-one__moc {
         position: relative;
         top: auto;
@@ -364,7 +369,7 @@
         max-width: 100%;
     }
     .banner-one__content {
-        margin-top: -50px;
+        margin-top: -200px;
     }
     .cta-three__image {
         margin-bottom: 50px;
